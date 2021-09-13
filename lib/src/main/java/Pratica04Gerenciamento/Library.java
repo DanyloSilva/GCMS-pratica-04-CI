@@ -9,6 +9,6 @@ public class Library {
     	System.out.println("Mudança");
     	System.out.println("Mudança2");
 
-        return false;
+        return true;
     }
 }
