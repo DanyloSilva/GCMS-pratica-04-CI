@@ -5,10 +5,7 @@ package Pratica04Gerenciamento;
 
 public class Library {
     public boolean someLibraryMethod() {
-    	//mudança no cod 
-    	System.out.println("Mudança");
-    	System.out.println("Mudança2");
-
-        return true;
+    	
+        return false;
     }
 }
